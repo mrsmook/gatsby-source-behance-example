@@ -11,7 +11,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-behance',
       options: {
-        username: 'lekoarts',
+        username: 'zaoualihamdi',
         apiKey: `${process.env.API_KEY}`,
       },
     },
